@@ -9,8 +9,8 @@ bin/
 .idea/
 *.classpath
 .settings/
+temp_auto_push.bat
 .project
-.vscode/
 
 # local environment
 .env
@@ -22,3 +22,5 @@ local.properties
 
 .dccache
 snyk-test.json
+.gitignore
+branch_structure.json
